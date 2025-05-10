@@ -57,7 +57,7 @@ This is a research assistant application built using **LangChain** and **OpenAI'
 
 Here is a screenshot of the research assistant running in the terminal:
 
-![Research Assistant Screenshot](image/code.png)
+![Research Assistant Screenshot](image/code.png.png)
 
 
 
