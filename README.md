@@ -53,6 +53,13 @@ This is a research assistant application built using **LangChain** and **OpenAI'
    python main.py
    ```
 
+## 📸 Screenshot
+
+Here is a screenshot of the research assistant running in the terminal:
+
+![Research Assistant Screenshot](image/code.png)
+
+
 
 ## 🔐 Disclaimer
 This tool uses the OpenAI API. Ensure your API key is kept secure and avoid uploading sensitive personal information.
